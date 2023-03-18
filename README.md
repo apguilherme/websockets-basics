@@ -1,6 +1,12 @@
 # websockets-basics
- 
-Repository related to studies about websockets.
+
+To Do app using websockets.
+
+To execute:
+
+Run `npm i` and `npm run dev`
+
+Access `http://localhost:8080/` on more than one browser.
 
 ---
 ```
