@@ -8,6 +8,8 @@ Run `npm i` and `npm run dev`
 
 Access `http://localhost:8080/` on more than one browser.
 
+![Screenshot](todo.png)
+
 ---
 ```
 Credits - developed based on Udemy Course: 
